@@ -42,4 +42,10 @@ Contact Section: Provides links to social media or email addresses so that prosp
 
 #Output :
 
+![Image](https://github.com/user-attachments/assets/34ef411e-7225-4689-958d-59e560eda92a)
 
+![Image](https://github.com/user-attachments/assets/6d3d3121-3c9a-478a-bf19-00a5b72c7b6a)
+
+![Image](https://github.com/user-attachments/assets/17f02a42-db11-4b7a-a249-284f2022e289)
+
+![Image](https://github.com/user-attachments/assets/94c9013c-d51e-472a-af9f-cecf7e5e59d0)
